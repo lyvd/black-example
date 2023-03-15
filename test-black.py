@@ -1,3 +1,3 @@
-print('Hello world')
-a=a+1
+print("Hello world")
+a = a + 1
 print(a)
